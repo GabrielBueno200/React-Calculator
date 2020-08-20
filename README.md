@@ -1,4 +1,4 @@
-## React Calculator
+## ReactJS Calculator
 Simple calculator project developed in ReactJS. 
 Projected to training and improving knowledges about JS frameworks.
 
