@@ -1,0 +1,19 @@
+.button{
+    transition: 0.5s all ease;
+    outline: none;
+    background: #F0EDEC;
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+.button:hover, .button:active{
+    background-color: #9B908D
+}
+
+.triple{
+    grid-column: span 3;
+}
+
+.double{
+    grid-column: span 2;
+}

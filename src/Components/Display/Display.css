@@ -1,0 +1,18 @@
+.display{
+    grid-column: span 4;
+    display: flex;
+    flex-direction: column-reverse;
+    color: #ffffff;
+    padding: 10px;
+    background-color: #6E564E;
+    font-size: 25px;
+    align-items: flex-end;
+    overflow: hidden;
+}
+
+.display p {
+    margin: 0;
+}
+
+
+
