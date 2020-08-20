@@ -1,6 +1,6 @@
 ## ReactJS Calculator
 Simple calculator project developed in ReactJS. 
-Projected to training and improving knowledges about JS frameworks.
+Developed to training and improving knowledges about JS frameworks.
 
 ![Calculator](https://user-images.githubusercontent.com/56837996/90718889-6c160200-e289-11ea-9e8c-cbf058e2c4b6.gif)
 
